@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GitHub Users</string>
+    <string name="on_back_pressed">Press back again to exit</string>
+    <string name="id">id: %d</string>
 </resources>
